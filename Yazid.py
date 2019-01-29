@@ -13,7 +13,7 @@ from apiclient.discovery import build
 
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
-DEVELOPER_KEY = 'AIzaSyDb_OgiI9beU0BmuHvlHlNP_5ZuXUSKK8Q'
+DEVELOPER_KEY = ''
 
 YOUTUBE_COMMENT_URL = 'https://www.googleapis.com/youtube/v3/commentThreads'
 
